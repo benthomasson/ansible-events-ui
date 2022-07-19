@@ -70,6 +70,26 @@ const sharedMessages = defineMessages({
   deleteProjectTitle: {
     id: 'project.deleteProject',
     defaultMessage: 'Delete project'
+  },
+  ruleset: {
+    id: 'rulesets.ruleset',
+    defaultMessage: 'Rule set'
+  },
+  rulesets: {
+    id: 'rulesets.rulesets',
+    defaultMessage: 'Rule sets'
+  },
+  norulesets: {
+    id: 'rulesets.norulesets',
+    defaultMessage: 'No rule sets'
+  },
+  addRuleSet: {
+    id: 'rulesets.addRuleSet',
+    defaultMessage: 'Add rule set'
+  },
+  deleteRuleSetTitle: {
+    id: 'rulesets.deleteRuleSet',
+    defaultMessage: 'Delete rule set'
   }
 });
 
